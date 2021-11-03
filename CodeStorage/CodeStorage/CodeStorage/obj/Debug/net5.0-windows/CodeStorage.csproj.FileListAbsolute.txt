@@ -1,0 +1,67 @@
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.exe
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.deps.json
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.runtimeconfig.json
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.runtimeconfig.dev.json
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.dll
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\ref\CodeStorage.dll
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.pdb
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.csproj.AssemblyReference.cache
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.Form1.resources
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.csproj.GenerateResource.cache
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.AssemblyInfoInputs.cache
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.AssemblyInfo.cs
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.csproj.CoreCompileInputs.cache
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.dll
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\ref\CodeStorage.dll
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.pdb
+C:\Users\한웅재\source\repos\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.genruntimeconfig.cache
+E:\C# Study\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.exe
+E:\C# Study\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.deps.json
+E:\C# Study\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.runtimeconfig.json
+E:\C# Study\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.runtimeconfig.dev.json
+E:\C# Study\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.dll
+E:\C# Study\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\ref\CodeStorage.dll
+E:\C# Study\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.pdb
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.csproj.AssemblyReference.cache
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.Form1.resources
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.csproj.GenerateResource.cache
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.AssemblyInfoInputs.cache
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.AssemblyInfo.cs
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.csproj.CoreCompileInputs.cache
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.dll
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\ref\CodeStorage.dll
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.pdb
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.genruntimeconfig.cache
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.Properties.Resources.resources
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.Login.resources
+E:\C# Study\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.SignUp.resources
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.exe
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.deps.json
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.runtimeconfig.json
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.runtimeconfig.dev.json
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.dll
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\ref\CodeStorage.dll
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\CodeStorage.pdb
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.csproj.AssemblyReference.cache
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.Form1.resources
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.Login.resources
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.SignUp.resources
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.Properties.Resources.resources
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.csproj.GenerateResource.cache
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.GeneratedMSBuildEditorConfig.editorconfig
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.AssemblyInfoInputs.cache
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.AssemblyInfo.cs
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.csproj.CoreCompileInputs.cache
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.dll
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\ref\CodeStorage.dll
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.pdb
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.genruntimeconfig.cache
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\포트폴리오\C#\Code Storage\CodeStorage\CodeStorage\CodeStorage\obj\Debug\net5.0-windows\CodeStorage.csproj.CopyComplete
